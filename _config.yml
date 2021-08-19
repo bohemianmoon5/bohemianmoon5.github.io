@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Mason Na"
-  avatar           : "/assets/images/MasonNa" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi~ I'm Mason. this page is my dev blog. beginning is always small but one of my hope that is keep developing myself."
+  avatar           : "/assets/images/MasonNa.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hi~ I'm Mason.\nthis page is my dev blog.\nbeginning is always small but one of my hope that is keep developing myself."
   location         : "South Korea"
   email            :
   links:
