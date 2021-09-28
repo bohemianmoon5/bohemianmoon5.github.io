@@ -2,7 +2,7 @@
 title: "중고거래 프로그램(콘솔)"
 excerpt: "첫번째 팀 프로젝트"
 
-category:
+categories:
   - categories/project
 tags:
   - [Blog, Java, 팀 프로젝트, 처음, 중고거래]
