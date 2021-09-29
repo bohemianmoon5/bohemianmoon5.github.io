@@ -30,4 +30,5 @@ last_modified_at: 2021-09-29
 
 ### 스크린샷(회원 정보 관리)
 <br>
+
 ![중고가든(회원정보관리)](https://user-images.githubusercontent.com/65845572/135231190-df7d0013-ccef-449f-9e59-f99f20714587.gif)
