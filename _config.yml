@@ -20,7 +20,7 @@ title                    : "Mason's dev blog"
 title_separator          : "-"
 subtitle                 : "지속적 성장을 꿈꾸는 Mason입니다." # site tagline that appears below site title in masthead
 name                     : "Mason Na"
-description              : "Hi~ I'm Mason. this page is my dev blog. beginning is always small<br>but one of my hope that is keep developing myself."
+description              : "Hi~ I'm Mason. this page is my dev blog. beginning is always small  but one of my hope that is keep developing myself."
 url                      : "https://bohemianmoon5.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bohemianmoon5/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
