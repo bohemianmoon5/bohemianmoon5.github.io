@@ -13,9 +13,9 @@ toc_sticky: true
 date: 2021-09-29
 last_modified_at: 2021-09-29
 ---
-
+<br>
 # 기획의도
-## 직거래와 안전거래가 가능한 중고거래 구현
+직거래와 안전거래가 가능한 중고거래 구현
 
 <h3>•개발환경</h3>
 <p style="font-size:18px;">Platform : macOS Big Sur, i5, 8G<br>
