@@ -17,7 +17,8 @@ last_modified_at: 2021-09-29
 #### • 구현기능들
 <hr>
 <p style="font-size:18px;">
-&emsp;&ensp;User : 로그인, 로그아웃, 회원가입, 회원정보 (스프링 시큐리티, 카카오 로그인, 비밀번호 암호화)<br>
+&emsp;&ensp;User : 로그인, 로그아웃, 회원가입, 회원정보 (스프링 시큐리티, 카카오 로그인,<br>
+&emsp;&ensp;비밀번호 암호화)<br>
 &emsp;&ensp;Board : 글쓰기, 글 수정, 글 삭제, 페이징<br>
 &emsp;&ensp;Reply : 댓글 쓰기, 댓글 삭제<br>
 &emsp;&ensp;기타 : 캘린더 (Fullcalendar + 구글 캘린더), 오전/오후(Emoji)</p>
