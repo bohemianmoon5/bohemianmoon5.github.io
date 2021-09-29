@@ -31,4 +31,4 @@ last_modified_at: 2021-09-29
   VCS : Git</p>
 
 <h3>•시연영상</h3>
-![myblog(완료)](https://user-images.githubusercontent.com/65845572/135126543-11edf34e-4bee-45d0-91ea-61a244845d20.gif)
+![myblog(완료)](https://user-images.githubusercontent.com/65845572/135126543-11edf34e-4bee-45d0-91ea-61a244845d20.gif) 
