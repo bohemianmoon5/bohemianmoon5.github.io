@@ -15,7 +15,7 @@ last_modified_at: 2021-09-29
 ---
 
 <h4>•기획의도</h4>
-<p font-size="1">직거래와 안전거래가 가능한 중고거래 구현</p>
+<p font-size="100">직거래와 안전거래가 가능한 중고거래 구현</p>
 
 <h4>•개발환경</h4>
 <p>Platform : macOS Big Sur, i5, 8G<br>
