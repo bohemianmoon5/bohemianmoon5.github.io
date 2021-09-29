@@ -15,9 +15,11 @@ last_modified_at: 2021-09-29
 ---
 
 #### • 기획의도
+<hr>
 <p style="font-size:18px;">&emsp;&ensp;예약 기능이 있는 스터디카페 키오스크 구현</p>
 
 #### • 개발환경
+<hr>
 <p style="font-size:18px;">
 &emsp;&ensp;Platform : Windows 10 x64, i7-8565U, 16G / macOS Big Sur, i5, 8G<br>
 &emsp;&ensp;Language : Java(JDK 1.8)<br>
@@ -26,6 +28,7 @@ last_modified_at: 2021-09-29
 &emsp;&ensp;VCS : Git</p>
 
 #### • 개발인원(책임파트)
+<hr>
 <p style="font-size:18px;">&emsp;&ensp;나문오(팀장) - 로그인, 회원가입 / 정원호 - 좌석 / 최민규 - 예약 / 오지수 - 결제</p>
 
 #### • 시연영상
